@@ -1,0 +1,14 @@
+{
+"pacte_nome": "João da Silva",
+"pacte_email": "joao.silva@gmail.com",
+"pacte_telefone": "47999999999",
+"endereco": {
+    "logradouro": "Rua das Palmeiras",
+    "bairro": "Flores",
+    "cep": "12345678",
+    "cidade": "Brasilia",
+    "uf": "DF",
+    "numero": "589",
+    "complemento": "Casa 1"
+    }
+}

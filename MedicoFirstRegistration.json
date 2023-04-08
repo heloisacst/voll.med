@@ -1,0 +1,16 @@
+{
+"nome": "Carla Azevedo",
+"email": "carla.azevedo@voll.med",
+"crm": "654321",
+"telefone": "47999999999",
+"especialidade": "CARDIOLOGIA",
+"endereco": {
+    "logradouro": "rua 1",
+    "bairro": "bairro",
+    "cep": "12345678",
+    "cidade": "Brasilia",
+    "uf": "DF",
+    "numero": "1",
+    "complemento": "complemento"
+    }
+}
